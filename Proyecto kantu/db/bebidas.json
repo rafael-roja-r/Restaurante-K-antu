@@ -1,0 +1,16 @@
+{
+    "bebidas": [
+        {
+            "id": 1,
+            "nombre": "Chicha Morada",
+            "precio": 8.0,
+            "detalles": "Bebida refrescante hecha de maíz morado, piña, manzana y especias."
+        },
+        {
+            "id": 2,
+            "nombre": "Pisco Sour",
+            "precio": 18.0,
+            "detalles": "Cóctel clásico peruano hecho con pisco, limón, jarabe de goma y clara de huevo."
+        }
+    ]
+}

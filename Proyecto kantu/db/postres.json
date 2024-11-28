@@ -1,0 +1,7 @@
+{
+    "postres": [
+        { "id": 1, "nombre": "Suspiro a la Limeña", "precio": 12.0, "detalles": "Postre cremoso de manjar blanco cubierto con merengue." },
+        { "id": 2, "nombre": "Mazamorra Morada", "precio": 10.0, "detalles": "Postre de maíz morado con frutas secas, canela y clavo." }
+     
+      ]
+}

@@ -1,0 +1,61 @@
+.bienve{
+    width: 90%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     margin: 10px auto;
+}
+.mensaje{
+
+    width: 50%;
+    height: 50vh;
+
+    
+}
+
+.mensaje h1{
+    width: 530px;
+    font-family: var(--texto-titulo);
+    color: var(--color-titulo);
+    font-size: 3.5rem;
+
+}
+.mensaje h3{
+    font-family: var(--texto-titulo);
+    font-size: 2rem;
+    color: var(--color-titulo);
+}
+
+.mensaje p{
+    font-family: var(--texto-titulo);
+    font-size: 1.3rem;
+    margin: 10px 0px;
+}
+
+.mensaje button{
+    width: 260px;
+    padding: 1.2rem 2rem;
+    border-radius: 3px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    cursor: pointer;
+    background: var(--color-boton);
+    color:var(--color-texto-boton);
+    border: none;
+    margin-top: 2.3rem;
+    border-radius:30px ;
+    
+}
+
+
+.mensaje button:hover{
+   box-shadow: 0px 1px 10px 0px var(--color-tercero);
+}
+    
+
+
+.imgs{
+    width: 50%;
+    height: 50vh;
+}

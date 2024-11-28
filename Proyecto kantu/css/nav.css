@@ -1,0 +1,42 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--color-titulo);
+
+
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li{
+    margin: 10px;
+}
+nav ul a{
+    text-decoration: none;
+    font-family: var(--text-boton);
+    font-weight: lighter;
+    font-size: 1.2rem;
+    color: var(--color-titulo);
+}
+
+.unir {
+
+    width: 150px;
+    padding: 6px;
+    border-radius:30px ;
+    text-decoration: none;
+    text-align: center;
+    background: var(--color-boton);
+    border: solid 3px var(--color-titulo);
+}
+.unir a{
+    text-decoration: none;
+    font-family: var(--text-boton);
+    font-size: 1.2rem;
+    color: var(--color-titulo);
+
+}

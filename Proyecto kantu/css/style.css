@@ -1,0 +1,25 @@
+
+@import url('color.css');
+@import url('texto.css');
+@import url('header.css');
+@import url('footer.css');
+@import url('main.css');
+@import url('nav.css');
+@import url('card.css');
+@import url('bienvenido.css');
+@import url('menu.css');
+@import url('promocion.css');
+@import url('agenda.css');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;    
+   /* border: solid 1px;*/
+    
+}
+body{
+    background: var(--color-fondo);
+    user-select: none;
+}

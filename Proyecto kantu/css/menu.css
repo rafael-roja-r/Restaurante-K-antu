@@ -1,0 +1,57 @@
+
+.buscar{
+    width: 700px;
+    margin: 0px auto;    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    border-radius: 30px;
+    background: var(--color-b-busqueda);
+
+}
+.buscar input{
+    width: 570px;
+    height: 40px;
+    border: solid 3px var(--color-secundario);
+    border-radius: 20PX;
+    color: var(--color-titulo);
+    padding:0px 20px;
+    outline: none;
+    font-weight: lighter;
+    font-size: 14pt;
+
+}
+.buscar input:focus{
+    background: var(--color-secundario);
+}
+
+.menu-buscar{
+    width: 100px;
+}
+.menu-buscar button{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 20px;
+    background: var(--color-boton);
+    cursor: pointer;
+    
+
+}
+.menu-buscar button img{
+    width: 18px;
+    color: var(--colo-texto-boton);
+
+}
+.menu-contenedor-buscar{
+    width: 80%;
+    height: 80vh;
+    margin: 0px auto;
+    padding: 10px;
+
+    
+}

@@ -1,0 +1,185 @@
+{
+    "platos": [
+        {
+            "id": 1,
+            "url": "/img/ceviche.png",
+            "nombre": "Ceviche",
+            "precio": 35.0,
+            "detalles": "Pescado fresco marinado en limón, acompañado de camote, choclo y ají."
+        },
+        {
+            "id": 2,
+            "nombre": "Lomo Saltado",
+            "precio": 30.0,
+            "detalles": "Carne de res salteada con cebolla, tomate, papas fritas y arroz."
+        },
+        {
+            "id": 3,
+            "nombre": "Ají de Gallina",
+            "precio": 28.0,
+            "detalles": "Pollo deshilachado en una crema de ají amarillo con arroz y huevo cocido."
+        },
+        {
+            "id": 4,
+            "nombre": "Anticuchos",
+            "precio": 25.0,
+            "detalles": "Brochetas de corazón de res a la parrilla, servidas con papa dorada y ají."
+        },
+        {
+            "id": 5,
+            "nombre": "Tacu Tacu",
+            "precio": 27.0,
+            "detalles": "Mezcla de arroz y frejoles fritos, servido con carne o huevo."
+        },
+        {
+            "id": 6,
+            "nombre": "Rocoto Relleno",
+            "precio": 32.0,
+            "detalles": "Ají rocoto relleno de carne molida, con queso y crema, acompañado de pastel de papa."
+        },
+        {
+            "id": 7,
+            "nombre": "Carapulcra",
+            "precio": 26.0,
+            "detalles": "Estofado de papa seca, cerdo y maní con un sabor ahumado."
+        },
+        {
+            "id": 8,
+            "nombre": "Seco de Cabrito",
+            "precio": 34.0,
+            "detalles": "Cabrito tierno guisado en chicha de jora y especias, acompañado de arroz."
+        },
+        {
+            "id": 9,
+            "nombre": "Chupe de Camarones",
+            "precio": 40.0,
+            "detalles": "Sopa de camarones con leche, choclo, papa y hierbas aromáticas."
+        },
+        {
+            "id": 10,
+            "nombre": "Pollo a la Brasa",
+            "precio": 45.0,
+            "detalles": "Pollo asado al estilo peruano, servido con papas fritas y ensalada."
+        },
+        {
+            "id": 11,
+            "nombre": "Causa Limeña",
+            "precio": 18.0,
+            "detalles": "Puré de papa amarilla relleno de pollo, atún o mariscos, con mayonesa y ají amarillo."
+        },
+        {
+            "id": 12,
+            "nombre": "Arroz Chaufa",
+            "precio": 25.0,
+            "detalles": "Arroz salteado al estilo chino-peruano con pollo, cerdo o camarones."
+        },
+        {
+            "id": 13,
+            "nombre": "Papa a la Huancaína",
+            "precio": 15.0,
+            "detalles": "Papas cocidas bañadas en una crema de queso, ají amarillo y leche."
+        },
+        {
+            "id": 14,
+            "nombre": "Pachamanca",
+            "precio": 50.0,
+            "detalles": "Carnes y vegetales cocidos bajo tierra con piedras calientes y especias andinas."
+        },
+        {
+            "id": 15,
+            "nombre": "Juane",
+            "precio": 22.0,
+            "detalles": "Arroz sazonado con cúrcuma, pollo y aceitunas, envuelto en hojas de bijao."
+        },
+        {
+            "id": 16,
+            "nombre": "Caldo de Gallina",
+            "precio": 20.0,
+            "detalles": "Sopa reconfortante con gallina, papa, huevo duro y fideos."
+        },
+        {
+            "id": 17,
+            "nombre": "Ocopa",
+            "precio": 16.0,
+            "detalles": "Papas cocidas bañadas con una salsa de maní, ají amarillo y hierbas."
+        },
+        {
+            "id": 18,
+            "nombre": "Chicharrón de Cerdo",
+            "precio": 35.0,
+            "detalles": "Carne de cerdo frita, servida con mote, camote y salsa criolla."
+        },
+        {
+            "id": 19,
+            "nombre": "Arroz con Pato",
+            "precio": 33.0,
+            "detalles": "Arroz sazonado con cilantro, acompañado de pato guisado."
+        },
+        {
+            "id": 20,
+            "nombre": "Tallarin Saltado",
+            "precio": 28.0,
+            "detalles": "Tallarines salteados con carne, cebolla, tomate y salsa de soya."
+        },
+        {
+            "id": 21,
+            "nombre": "Trucha Frita",
+            "precio": 30.0,
+            "detalles": "Trucha fresca frita, acompañada de arroz, ensalada y papa dorada."
+        },
+        {
+            "id": 22,
+            "nombre": "Adobo Arequipeño",
+            "precio": 38.0,
+            "detalles": "Guiso de carne de cerdo marinado en ají panca, chicha de jora y especias."
+        },
+        {
+            "id": 23,
+            "nombre": "Sopa a la Criolla",
+            "precio": 18.0,
+            "detalles": "Sopa con carne, fideos, leche, huevo y especias."
+        },
+        {
+            "id": 24,
+            "nombre": "Chancho al Palo",
+            "precio": 55.0,
+            "detalles": "Carne de cerdo cocida al palo con papas y ensalada."
+        },
+        {
+            "id": 25,
+            "nombre": "Cau Cau",
+            "precio": 25.0,
+            "detalles": "Guiso de mondongo y papas en una salsa de ají amarillo y especias."
+        },
+        {
+            "id": 26,
+            "nombre": "Escabeche de Pollo",
+            "precio": 22.0,
+            "detalles": "Pollo marinado con cebolla, ají y vinagre, servido frío."
+        },
+        {
+            "id": 27,
+            "nombre": "Patasca",
+            "precio": 25.0,
+            "detalles": "Sopa espesa de mote, carne y hierbas."
+        },
+        {
+            "id": 28,
+            "nombre": "Tallarines Verdes",
+            "precio": 26.0,
+            "detalles": "Pasta servida con una salsa de albahaca, espinaca y queso."
+        },
+        {
+            "id": 29,
+            "nombre": "Trucha Cevichada",
+            "precio": 40.0,
+            "detalles": "Trucha marinada en limón al estilo ceviche, con choclo y camote."
+        },
+        {
+            "id": 30,
+            "nombre": "Parihuela",
+            "precio": 42.0,
+            "detalles": "Caldo concentrado de mariscos y pescado, sazonado con ají y especias."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+
+.producto{
+    width: 400px;
+    height: 450px;
+    margin: 10px;
+    background: var(--color-secundario);
+   
+
+}
+
+.imgs{
+    width:350px ;
+    height: 300px;
+}
+
+.detalles{
+    width:350px ;
+    height: 100px;
+    margin: auto;
+
+
+
+}
+
+.nombre{
+    font-size: 12pt;
+
+}

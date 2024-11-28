@@ -1,15 +1,26 @@
+/* Estilos generales */
+@import url('color.css');          /* Colores */
+@import url('texto.css');          /* Tipografía */
 
-@import url('color.css');
-@import url('texto.css');
-@import url('header.css');
-@import url('footer.css');
-@import url('main.css');
-@import url('nav.css');
-@import url('card.css');
-@import url('bienvenido.css');
-@import url('menu.css');
-@import url('promocion.css');
-@import url('agenda.css');
+/* Estilos para la estructura */
+@import url('header.css');         /* Cabecera */
+@import url('footer.css');         /* Pie de página */
+@import url('nav.css');            /* Navegación */
+
+/* Estilos principales */
+@import url('main.css');           /* Estilos principales */
+@import url('bienvenido.css');     /* Estilos para la página de bienvenida */
+
+/* Estilos específicos de secciones */
+@import url('menu.css');           /* Menú */
+@import url('promocion.css');      /* Promociones */
+@import url('agenda.css');         /* Agenda */
+@import url('portafolio.css');     /* Portafolio */
+@import url('nosotros.css');       /* Nosotros */
+@import url('unirme.css');         /* unirme */
+
+/* Estilos de tarjetas */
+@import url('card.css');           /* Estilos de tarjetas */
 
 
 *{

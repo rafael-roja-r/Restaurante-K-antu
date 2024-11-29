@@ -38,8 +38,7 @@ Este proyecto es parte del examen final del curso de Desarrollo Web en **Ciberte
 - **Interactividad**: Animaciones y efectos visuales que mejoran la experiencia de usuario.  
 - **Tecnologías Usadas**:  
   - HTML5, CSS3 y JavaScript.  
-  - Uso de frameworks como Bootstrap y librerías como AOS.  
-  - Integración opcional de backend con PHP o Node.js.  
+
 
 ## Instalación y Uso  
 1. Clona este repositorio:  

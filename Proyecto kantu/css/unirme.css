@@ -4,11 +4,63 @@
     margin: 10px auto;
 
 
+
 }
 
 .unir-data{
     width: 500px;
     height: 500px;
-    display: flex;
+    margin: 10px auto;
+
     
+}
+.data h2{
+    text-align: center;
+    color: var(--color-titulo);
+    font-family: var(--texto-titulo);
+    font-size: 2rem;
+}
+.data h3{
+    
+    color: var(--color-titulo);
+    font-family: var(--texto-titulo);
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+    font-weight: 700;
+    
+
+
+}
+
+.unir-data form{
+    font-family: var(--texto-detalles);
+    color: var(--color-titulo);
+}
+
+.unir-data form input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid var(--color-titulo);
+    outline: none;
+    font-size: 14px;
+    transition: border-color 0.3s ease;
+    font-weight: 500;
+
+}
+
+.unir-data form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.unir-data form label{
+    display: block;
+}
+
+
+.termi-condi{
+visibility: hidden;
 }

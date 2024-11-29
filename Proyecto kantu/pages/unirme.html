@@ -1,19 +1,25 @@
 <div class="unirme">
     <div class="data">
 
-        <h2>Reservar de mesa</h2>
+        <h2>Registrarse</h2>
         <div class="unir-data">
+            <h3>Información Personal</h3>
             <form action="">
                 <label for="nombre">Nombre</label>
-                <input type="text" name="nombre" placeholder="Nombre">
+                <input type="text" name="nombre" id="nombre" placeholder="Nombre" autocomplete="given-name">
+        
                 <label for="cel">Celular</label>
-                <input type="number" name="cel" placeholder="Celular">
+                <input type="number" name="cel" id="cel" placeholder="Celular" autocomplete="tel">
+        
                 <label for="fecha">Fecha de nacimiento</label>
                 <input type="date" name="fecha" id="fecha" placeholder="Fecha de nacimiento">
+        
                 <label for="direccion">Dirección</label>
-                <input type="text" name="direccion" placeholder="Dirección">
+                <input type="text" name="direccion" id="direccion" placeholder="Dirección" autocomplete="street-address">
+        
                 <label for="correo">Correo</label>
-                <input type="email" name="correo" placeholder="sistem@kantu.com">
+                <input type="email" name="correo" id="correo" placeholder="sistem@kantu.com" autocomplete="email">
+        
     
     
             </form>
@@ -22,8 +28,13 @@
 
    
         <div class="terminos">
-            <a href="" id="termi" onclick="toggleTerminos()">Términos y Condiciones</a>
-            <div id="termi-condi">
+            <div class="chec">
+                <input  type="checkbox" id="terminos" name="terminos" required> He leído y estoy de acuerdo con los
+                <a href="" id="termi" onclick="toggleTerminos()"> Términos del Servicio y Condiciones de Uso de datos</a>
+    
+            </div>
+
+            <div id="termi-condi" class="termi-condi">
                 <h3>TÉRMINOS Y CONDICIONES DEL USO Y MANEJO DE DATOS PERSONALES</h3>
                 <p>Última actualización: 26/11/2024</p>
                 <p>Bienvenido a K'ANTU. A continuación, detallamos los términos y

@@ -32,6 +32,7 @@ nav ul a{
     text-align: center;
     background: var(--color-boton);
     border: solid 3px var(--color-titulo);
+    cursor: pointer;
 }
 .unir a{
     text-decoration: none;

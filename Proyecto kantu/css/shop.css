@@ -1,0 +1,52 @@
+.compra-conte{
+    width: 100%;
+    height: 100vh;
+    font-family: var(--texto--detalles);
+}
+.compra-pedido h2{
+   font-family: var(--texto-detalles);
+   color: var(--color-titulo);
+   margin-bottom: 10px;
+}
+.compra-pedido p{
+    font-family: var(--texto-detalles);
+    color: var(--color-subtitulo);
+    margin-bottom: 10px;
+    font-size: 12pt;
+
+   
+}
+
+.compra-pedido{
+    width: 50%;
+    height: 50vh;
+    margin: 20px auto;
+   
+}
+.pedido{
+
+    background: var( --color-tercero);
+    width: 80%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 30px;
+    
+
+}
+.pedido img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    background: var(--color-titulo);
+    margin: 0px 10px;
+
+}
+.pedido span{
+    font-family: var(--texto-detalles);
+    color: var(--color-subtitulo);
+    font-size: 10pt;
+    margin-right: 0px 10px;
+}

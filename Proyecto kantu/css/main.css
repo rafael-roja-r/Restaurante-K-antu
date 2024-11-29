@@ -1,4 +1,7 @@
 .menu-contenedor {
     width: 100%;
-    height: 100vh;    
+    height: 100vh;   
+    margin: 10px auto; 
+    padding: 10px;
+
 }

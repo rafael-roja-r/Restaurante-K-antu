@@ -25,13 +25,12 @@ nav ul a{
 
 .unir {
 
-    width: 150px;
+    width: 130px;
     padding: 6px;
     border-radius:30px ;
     text-decoration: none;
     text-align: center;
-    background: var(--color-boton);
-    border: solid 3px var(--color-titulo);
+    border: solid 4px var(--color-boton);
     cursor: pointer;
 }
 .unir a{

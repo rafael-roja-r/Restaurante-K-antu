@@ -1,7 +1,74 @@
 {
-    "postres": [
-        { "id": 1, "nombre": "Suspiro a la Limeña", "precio": 12.0, "detalles": "Postre cremoso de manjar blanco cubierto con merengue." },
-        { "id": 2, "nombre": "Mazamorra Morada", "precio": 10.0, "detalles": "Postre de maíz morado con frutas secas, canela y clavo." }
-     
-      ]
+  "postres": [
+    {
+      "id": 1,
+      "nombre": "Suspiro a la Limeña",
+      "precio": 12.0,
+      "detalles": "Postre cremoso de manjar blanco cubierto con merengue.",
+      "imagen": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Mazamorra Morada",
+      "precio": 10.0,
+      "detalles": "Postre de maíz morado con frutas secas, canela y clavo.",
+      "imagen": ""
+    },
+    {
+      "id": 3,
+      "nombre": "Turrón de Doña Pepa",
+      "precio": 15.0,
+      "detalles": "Dulce tradicional de masa crocante cubierta con miel de chancaca y decorada con grageas.",
+      "imagen": ""
+    },
+    {
+      "id": 4,
+      "nombre": "Arroz con Leche",
+      "precio": 8.0,
+      "detalles": "Postre a base de arroz cocido con leche, azúcar, canela y pasas.",
+      "imagen": ""
+    },
+    {
+      "id": 5,
+      "nombre": "Picarones",
+      "precio": 12.0,
+      "detalles": "Rosquillas de zapallo y camote bañadas en miel de chancaca.",
+      "imagen": ""
+    },
+    {
+      "id": 6,
+      "nombre": "Crema Volteada",
+      "precio": 10.0,
+      "detalles": "Flan peruano hecho con leche, huevos y caramelo.",
+      "imagen": ""
+    },
+    {
+      "id": 7,
+      "nombre": "King Kong",
+      "precio": 18.0,
+      "detalles": "Pastel relleno de manjar blanco, higo y dulce de piña.",
+      "imagen": ""
+    },
+    {
+      "id": 8,
+      "nombre": "Chocotejas",
+      "precio": 5.0,
+      "detalles": "Dulces de chocolate rellenos de manjar blanco, frutos secos o licor.",
+      "imagen": ""
+    },
+    {
+      "id": 9,
+      "nombre": "Helado de Lúcuma",
+      "precio": 14.0,
+      "detalles": "Helado cremoso hecho con lúcuma, una fruta típica del Perú.",
+      "imagen": ""
+    },
+    {
+      "id": 10,
+      "nombre": "Alfajores",
+      "precio": 6.0,
+      "detalles": "Galletas rellenas de manjar blanco y espolvoreadas con azúcar en polvo.",
+      "imagen": ""
+    }
+  ]
 }

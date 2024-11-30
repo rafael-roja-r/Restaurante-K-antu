@@ -1,16 +1,74 @@
 {
-    "bebidas": [
+    "tragos": [
         {
             "id": 1,
-            "nombre": "Chicha Morada",
-            "precio": 8.0,
-            "detalles": "Bebida refrescante hecha de maíz morado, piña, manzana y especias."
+            "nombre": "Pisco Sour",
+            "precio": 18.0,
+            "detalles": "Cóctel clásico peruano preparado con pisco, jugo de limón, jarabe de goma, clara de huevo y amargo de angostura.",
+            "imagen": ""
         },
         {
             "id": 2,
-            "nombre": "Pisco Sour",
+            "nombre": "Chilcano de Pisco",
+            "precio": 15.0,
+            "detalles": "Refrescante trago hecho con pisco, ginger ale, limón y un toque de amargo de angostura.",
+            "imagen": ""
+        },
+        {
+            "id": 3,
+            "nombre": "Capitán",
+            "precio": 16.0,
+            "detalles": "Variante peruana del Manhattan, elaborado con pisco y vermut rojo.",
+            "imagen": ""
+        },
+        {
+            "id": 4,
+            "nombre": "Pisco Punch",
+            "precio": 20.0,
+            "detalles": "Exótico cóctel a base de pisco, jugo de piña y jarabe de goma.",
+            "imagen": ""
+        },
+        {
+            "id": 5,
+            "nombre": "Machu Picchu",
+            "precio": 22.0,
+            "detalles": "Trago colorido con capas de granadina, jugo de naranja, menta y pisco.",
+            "imagen": ""
+        },
+        {
+            "id": 6,
+            "nombre": "Sol y Sombra",
+            "precio": 17.0,
+            "detalles": "Trago preparado con partes iguales de pisco y vermut rojo.",
+            "imagen": ""
+        },
+        {
+            "id": 7,
+            "nombre": "Pisco Sunrise",
             "precio": 18.0,
-            "detalles": "Cóctel clásico peruano hecho con pisco, limón, jarabe de goma y clara de huevo."
+            "detalles": "Cóctel similar al tequila sunrise, con pisco, jugo de naranja y granadina.",
+            "imagen": ""
+        },
+        {
+            "id": 8,
+            "nombre": "Sour de Maracuyá",
+            "precio": 19.0,
+            "detalles": "Variante del pisco sour, hecha con jugo de maracuyá en lugar de limón.",
+            "imagen": ""
+        },
+        {
+            "id": 9,
+            "nombre": "Algarrobina",
+            "precio": 16.0,
+            "detalles": "Dulce cóctel elaborado con pisco, leche evaporada, jarabe de algarrobina y canela.",
+            "imagen": ""
+        },
+        {
+            "id": 10,
+            "nombre": "Catedral",
+            "precio": 25.0,
+            "detalles": "Versión extragrande del chilcano, ideal para compartir.",
+            "imagen": ""
         }
     ]
 }

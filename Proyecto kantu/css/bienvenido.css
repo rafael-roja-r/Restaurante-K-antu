@@ -2,7 +2,7 @@
     width: 90%;
     height: 100vh;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
      margin: 10px auto;
 
@@ -57,7 +57,24 @@
     
 
 
-.imgs{
-    width: 50%;
+.imgs_contenedor{
+    width: 400px;
     height: 50vh;
+    display: flex;
+
+}
+.imgs_grupo{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+}
+.imgs_grupo img {
+    background-color: transparent !important; /* Garantiza que el contenedor no tenga fondo */
+    filter: none;
+    width: 150px;
 }
